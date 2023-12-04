@@ -15,8 +15,4 @@ Skills: Python / JS / HTML / CSS
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=dessanhemrayev&show_icons=true&count_private=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=dessanhemrayev)  
-
-![GitHub metrics](https://metrics.lecoq.io/dessanhemrayev)  
-
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=dessanhemrayev)  

@@ -20,5 +20,3 @@ Skills: Python / JS / HTML / CSS
 ![GitHub metrics](https://metrics.lecoq.io/dessanhemrayev)  
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=dessanhemrayev)  
-
-![Profile views](https://gpvc.arturio.dev/dessanhemrayev)

@@ -2,7 +2,7 @@
 
 ### Hi there 👋, my name is Dessan
 
-Skills: Python / JS / HTML / CSS
+Skills: Python(Odoo/FastApi) / JS(Owl/React) / HTML / CSS
 
 - 🔭 I’m currently working on this page. 
 

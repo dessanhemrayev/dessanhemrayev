@@ -29,7 +29,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dessanhemrayev&langs_count=8&layout=compact)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dessanhemrayev&layout=compact)](https://github.com/dessanhemrayev/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=dessanhemrayev&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 

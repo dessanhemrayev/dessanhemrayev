@@ -27,8 +27,6 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=dessanhemrayev)](https://github.com/ryo-ma/github-profile-trophy)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dessanhemrayev&langs_count=8&layout=compact)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dessanhemrayev&layout=compact)](https://github.com/dessanhemrayev/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=dessanhemrayev&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)

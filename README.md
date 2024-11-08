@@ -2,18 +2,23 @@
 
 ### Hi there 👋, my name is Dessan
 
-Skills: 
-- ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-   - Odoo
-   - ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-   - ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-   - ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-   - ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray)
-- ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-   - Owl
-   - ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-- ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-- ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+## Skills:
+
+- ![Python](https://img.shields.io/badge/-Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+  - Odoo
+  - ![FastAPI](https://img.shields.io/badge/-FastAPI-005571?style=for-the-badge&logo=fastapi)
+  - ![Flask](https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask)
+  - ![Django](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django)
+  - ![DjangoREST](https://img.shields.io/badge/-DjangoREST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray)
+
+- ![JavaScript](https://img.shields.io/badge/-JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+  - Owl
+  - ![React](https://img.shields.io/badge/-React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+- ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+
+- ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
 
 - 🔭 I’m currently working on this page. 
 

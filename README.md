@@ -1,4 +1,5 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) 
+
 My name is Dessan
 ==============================================================================================================================
 
@@ -49,7 +50,6 @@ Python Backend Developer
 
 ### Badges
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=dessanhemrayev)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dessanhemrayev&layout=compact)](https://github.com/dessanhemrayev/github-readme-stats)
 

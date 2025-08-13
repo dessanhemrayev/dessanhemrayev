@@ -71,9 +71,6 @@ me.say_hi()
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=dessanhemrayev&theme=tokyonight&hide_border=true" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dessanhemrayev" />
-</div>
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=dessanhemrayev&theme=tokyo-night&hide_border=true&area=true" />

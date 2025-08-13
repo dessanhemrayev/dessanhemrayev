@@ -1,54 +1,129 @@
-### Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) 
+# Hi there, I'm Dessan! 👋
 
-My name is Dessan
-==============================================================================================================================
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Backend+Developer;Python+Enthusiast;Open+Source+Contributor;Always+Learning+New+Technologies" alt="Typing SVG" />
+</div>
 
-Python Backend Developer
-------------------------
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=dessanhemrayev&style=for-the-badge&color=0891b2&labelColor=1c1917" />
+</div>
 
-### Skills
-<p align="left">
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
-  <a href="https://dart.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dart-colored.svg" width="36" height="36" alt="Dart" /></a>
-  <a href="https://go.dev/doc/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/go-colored.svg" width="36" height="36" alt="Go" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gnubash.svg" width="36" height="36" alt="GNU Bash" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-  <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" width="36" height="36" alt="Fast API" /></a>
-  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
+---
 
-  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" /></a>
-  <a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="36" height="36" alt="Flutter" /></a>
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="36" height="36" alt="Amazon Web Services" /></a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a>
-  <a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a>
+## 🚀 About Me
+
+```python
+class BackendDeveloper:
+    def __init__(self):
+        self.name = "Dessan"
+        self.role = "Python Backend Developer"
+        self.location = "🌍"
+        self.languages = ["Python", "JavaScript", "Go", "Dart"]
+        self.currently_learning = ["Advanced Python", "System Design", "DevOps"]
+        self.interests = ["Backend Architecture", "API Development", "Cloud Computing"]
+    
+    def say_hi(self):
+        print("Thanks for dropping by! Let's build something amazing together.")
+
+me = BackendDeveloper()
+me.say_hi()
+```
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+### Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=python,js,go,dart,bash,html" />
 </p>
 
-### Socials
-
-<p align="left">
-  <a href="https://www.dev.to/dessanhemrayev" target="_blank" rel="noreferrer">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto-dark.svg" />
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" />
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" />
-    </picture>
-  </a>
-  <a href="https://www.github.com/dessanhemrayev" target="_blank" rel="noreferrer">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" />
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" />
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
-    </picture>
-  </a>
+### Frameworks & Libraries
+<p>
+  <img src="https://skillicons.dev/icons?i=fastapi,django,flutter" />
 </p>
 
-### Badges
+### Databases & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=postgresql,git,docker,aws,linux" />
+</p>
 
+### Communication & VoIP
+<p>
+  <img src="https://img.shields.io/badge/Asterisk-FF6600?style=for-the-badge&logo=asterisk&logoColor=white" alt="Asterisk" />
+  <img src="https://img.shields.io/badge/XMPP-007BFF?style=for-the-badge&logo=xmpp&logoColor=white" alt="XMPP" />
+</p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dessanhemrayev&layout=compact)](https://github.com/dessanhemrayev/github-readme-stats)
+</div>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=dessanhemrayev&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+---
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=dessanhemrayev)
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dessanhemrayev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dessanhemrayev&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dessanhemrayev&theme=tokyonight&hide_border=true" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dessanhemrayev&theme=tokyo-night&hide_border=true&area=true" />
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=dessanhemrayev&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" />
+</div>
+
+---
+
+## 🔥 Current Focus
+
+<div align="center">
+
+```mermaid
+graph LR
+    A[🐍 Python Mastery] --> B[🚀 FastAPI]
+    B --> C[🏗️ System Design]
+    C --> D[☁️ Cloud Architecture]
+    D --> E[🔧 DevOps Practices]
+    
+    style A fill:#3776ab
+    style B fill:#009688
+    style C fill:#ff6b6b
+    style D fill:#4ecdc4
+    style E fill:#45b7d1
+```
+
+</div>
+
+---
+
+## 🌐 Connect with Me
+
+<div align="center">
+  
+[![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/dessanhemrayev)
+[![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/dessanhemrayev)
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&width=100%&fontColor=ffffff&text=Thanks%20for%20visiting!&fontSize=16&fontAlignY=75&desc=Let's%20connect%20and%20build%20something%20amazing%20together&descAlignY=55&descAlign=50" />
+</div>
+
+---
+
+<div align="center">
+  <i>⭐️ From <a href="https://github.com/dessanhemrayev">dessanhemrayev</a></i>
+</div>

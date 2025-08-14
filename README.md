@@ -42,7 +42,7 @@ me.say_hi()
 
 ### Frameworks & Libraries
 <p>
-  <img src="https://skillicons.dev/icons?i=odoo,fastapi,django,flutter" />
+  <img src="https://skillicons.dev/icons?i=odoo,fastapi,django,flutter" alt="Odoo, FastAPI, Django, Flutter" />
 </p>
 
 ### Databases & Tools

@@ -20,7 +20,7 @@ class BackendDeveloper:
         self.location = "🌍"
         self.languages = ["Python", "JavaScript", "Go", "Dart"]
         self.currently_learning = ["Advanced Python", "System Design", "DevOps"]
-        self.interests = ["Backend Architecture", "API Development", "Cloud Computing"]
+        self.interests = ["Backend Architecture", "API Development", "Cloud Computing", "SIP/VOIP"]
     
     def say_hi(self):
         print("Thanks for dropping by! Let's build something amazing together.")
@@ -42,7 +42,7 @@ me.say_hi()
 
 ### Frameworks & Libraries
 <p>
-  <img src="https://skillicons.dev/icons?i=fastapi,django,flutter" />
+  <img src="https://skillicons.dev/icons?i=odoo,fastapi,django,flutter" />
 </p>
 
 ### Databases & Tools

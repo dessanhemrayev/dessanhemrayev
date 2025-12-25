@@ -16,9 +16,9 @@
 class BackendDeveloper:
     def __init__(self):
         self.name = "Dessan"
-        self.role = "Python Backend Developer"
+        self.role = "Backend Developer"
         self.location = "🌍"
-        self.languages = ["Python", "JavaScript", "Go", "Dart"]
+        self.languages = ["Python", "JS/TS", "Go", "Dart"]
         self.currently_learning = ["Advanced Python", "System Design", "DevOps"]
         self.interests = ["Backend Architecture", "API Development", "Cloud Computing", "SIP/VOIP"]
     
@@ -37,7 +37,7 @@ me.say_hi()
 
 ### Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=python,js,go,dart,bash,html" />
+  <img src="https://skillicons.dev/icons?i=python,js,ts,go,dart" />
 </p>
 
 ### Frameworks & Libraries
@@ -47,14 +47,16 @@ me.say_hi()
 
 ### Databases & Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=postgresql,git,docker,aws,linux" />
+  <img src="https://skillicons.dev/icons?i=postgresql,redis,docker,git,linux" />
 </p>
 
 ### Communication & VoIP
 <p>
   <img src="https://img.shields.io/badge/Asterisk-FF6600?style=for-the-badge&logo=asterisk&logoColor=white" alt="Asterisk" />
   <img src="https://img.shields.io/badge/XMPP-007BFF?style=for-the-badge&logo=xmpp&logoColor=white" alt="XMPP" />
+  <img src="https://img.shields.io/badge/Matrix-018BFF?style=for-the-badge&logo=matrix&logoColor=black" alt="Matrix" />
 </p>
+
 
 </div>
 

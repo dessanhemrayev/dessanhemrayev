@@ -80,28 +80,6 @@ me.say_hi()
 
 ---
 
-## 🔥 Current Focus
-
-<div align="center">
-
-```mermaid
-graph LR
-    A[🐍 Python Mastery] --> B[🚀 FastAPI]
-    B --> C[🏗️ System Design]
-    C --> D[☁️ Cloud Architecture]
-    D --> E[🔧 DevOps Practices]
-    
-    style A fill:#3776ab
-    style B fill:#009688
-    style C fill:#ff6b6b
-    style D fill:#4ecdc4
-    style E fill:#45b7d1
-```
-
-</div>
-
----
-
 ## 🌐 Connect with Me
 
 <div align="center">

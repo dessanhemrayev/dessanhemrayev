@@ -79,6 +79,14 @@ me.say_hi()
 </div>
 
 ---
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/dessanhemrayev/dessanhemrayev/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake Animation" />
+
+</div>
+---
 
 ## 🌐 Connect with Me
 

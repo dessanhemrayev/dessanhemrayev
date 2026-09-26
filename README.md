@@ -74,10 +74,6 @@ me.say_hi()
 </div>
 
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dessanhemrayev&theme=tokyo-night&hide_border=true&area=true" />
-</div>
-
 ---
 ## 🐍 Contribution Snake
 

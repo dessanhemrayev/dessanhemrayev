@@ -18,7 +18,7 @@ class BackendDeveloper:
         self.name = "Dessan"
         self.role = "Backend Developer"
         self.location = "🌍"
-        self.languages = ["Python", "JS/TS", "Go", "Dart"]
+        self.languages = ["Python", "Go", "Dart"]
         self.currently_learning = ["Advanced Python", "System Design", "DevOps"]
         self.interests = ["Backend Architecture", "API Development", "Cloud Computing", "SIP/VOIP"]
     
